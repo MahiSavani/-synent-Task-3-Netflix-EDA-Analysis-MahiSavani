@@ -1,20 +1,20 @@
-# 🎬 Netflix EDA — Exploratory Data Analysis
+#  Netflix EDA — Exploratory Data Analysis
 
 A data analysis project exploring trends, content distribution, and patterns in the Netflix titles dataset using Python.
 
 
-## 📌 Overview
+##  Overview
 
 This notebook performs a structured exploratory data analysis (EDA) on the Netflix dataset to uncover insights about content types, genres, ratings, release trends, and country-wise production.
 
 
-## 📂 Dataset
+##  Dataset
 
 - **Source:** `netflix_titles.csv`
 - **Features:** Title, Type (Movie/TV Show), Country, Release Year, Rating, Genre, etc.
 
 
-## 🔍 Analysis Performed
+##  Analysis Performed
 
 | Section | Description |
 |---|---|
@@ -28,7 +28,7 @@ This notebook performs a structured exploratory data analysis (EDA) on the Netfl
 | Top Genres | Most popular genres on the platform |
 
 
-## 💡 Key Insights
+## Key Insights
 
 - Netflix has **more Movies than TV Shows** in its library.
 - Content additions **grew rapidly after 2015**, peaking between 2017–2020.
@@ -38,12 +38,12 @@ This notebook performs a structured exploratory data analysis (EDA) on the Netfl
 - Most content was released **after the year 2000**, reflecting Netflix's focus on modern entertainment.
 
 
-## ✅ Conclusion
+## Conclusion
 
 This EDA reveals that Netflix has strategically expanded its content library with a strong emphasis on Movies, mature-rated content, and international productions. The rapid growth post-2015 highlights Netflix's aggressive global expansion strategy. With Drama, Comedy, and International Movies dominating the platform, Netflix clearly caters to a diverse, worldwide audience. The dataset is largely categorical, limiting deep statistical correlation, but the visual analysis provides clear and actionable trends.
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python 3**
 - `pandas` — data manipulation
