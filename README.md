@@ -2,20 +2,17 @@
 
 A data analysis project exploring trends, content distribution, and patterns in the Netflix titles dataset using Python.
 
----
 
 ## 📌 Overview
 
 This notebook performs a structured exploratory data analysis (EDA) on the Netflix dataset to uncover insights about content types, genres, ratings, release trends, and country-wise production.
 
----
 
 ## 📂 Dataset
 
 - **Source:** `netflix_titles.csv`
 - **Features:** Title, Type (Movie/TV Show), Country, Release Year, Rating, Genre, etc.
 
----
 
 ## 🔍 Analysis Performed
 
@@ -30,7 +27,6 @@ This notebook performs a structured exploratory data analysis (EDA) on the Netfl
 | Release Year Distribution | Histogram with KDE of release years |
 | Top Genres | Most popular genres on the platform |
 
----
 
 ## 💡 Key Insights
 
@@ -41,13 +37,11 @@ This notebook performs a structured exploratory data analysis (EDA) on the Netfl
 - **Drama, International Movies, and Comedy** are the dominant genres.
 - Most content was released **after the year 2000**, reflecting Netflix's focus on modern entertainment.
 
----
 
 ## ✅ Conclusion
 
 This EDA reveals that Netflix has strategically expanded its content library with a strong emphasis on Movies, mature-rated content, and international productions. The rapid growth post-2015 highlights Netflix's aggressive global expansion strategy. With Drama, Comedy, and International Movies dominating the platform, Netflix clearly caters to a diverse, worldwide audience. The dataset is largely categorical, limiting deep statistical correlation, but the visual analysis provides clear and actionable trends.
 
----
 
 ## 🛠️ Tech Stack
 
